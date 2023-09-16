@@ -6,12 +6,22 @@ java(IDEA)+JDBC+Mysql
 -------功能包括-------<br>
 用户：<br>
 ![用户可用功能](https://github.com/Andouls/DataBase_ShoppingSystem/blob/main/java%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F/%E7%94%A8%E6%88%B7%E9%80%89%E9%A1%B9.jpg)
-管理员:
-![输入图片说明](/imgs/2023-09-16/kfQxyDx9YFLoLBAR.png)
-管理员操作:
-![输入图片说明](/imgs/2023-09-16/amornq21Cwdf2sTH.png)
-账号登录:
-![输入图片说明](/imgs/2023-09-16/oeAzFrrpA4FcQPCm.png)
+<br>
+管理员:<br>
+![管理界面](https://github.com/Andouls/DataBase_ShoppingSystem/blob/main/java%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F/%E7%AE%A1%E7%90%86%E7%95%8C%E9%9D%A2.jpg)
+<br>
+管理员操作:<br>
+![管理功能细分](https://github.com/Andouls/DataBase_ShoppingSystem/blob/main/java%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F/%E7%AE%A1%E7%90%86%E7%BB%86%E5%88%86%E5%8A%9F%E8%83%BD.jpg)
+<br>
+账号登录:<br>
+![登录界面](https://github.com/Andouls/DataBase_ShoppingSystem/blob/main/java%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.jpg)
+<br>
+-------数据库结构设计-----------<br>
+数据库UML图<br>
+![UML](https://github.com/Andouls/DataBase_ShoppingSystem/blob/main/java%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93UML%E5%9B%BE.png)
+<br>
+数据库ER图<br>
+![ER](https://github.com/Andouls/DataBase_ShoppingSystem/blob/main/java%E8%B4%AD%E7%89%A9%E7%B3%BB%E7%BB%9F/%E6%95%B0%E6%8D%AE%E5%BA%93ER%E5%9B%BE.png)<br>
 --------涉及SQL语句包括-------<br>
 1.增 insert<br>
 2.删 delect<br>
