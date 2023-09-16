@@ -1,0 +1,2 @@
+# DataBase_ShoppingSystem
+数据库课程实践大作业，在IDEA上使用java语言采用JDBC技术连接Mysql数据库，实现购物系统
